@@ -14,8 +14,4 @@
     "discord.js": "^11.6.4",
     "fivereborn-query": "^1.0.4"
   }
-  }
-"scripts": {
-  "start": "node index.js"
-  }
 }
