@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "productName": "OwlsCityRP",
+  "version": "0.1.0",
+  "description": "OwlsCityRP",
+  "main": "index.js",
+  "author": {
+    "name": "OwlsCityRP"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "fivereborn-query": "^1.0.4"
+  }
+  }
+"scripts": {
+  "start": "node index.js"
+  }
+}
